@@ -40,4 +40,4 @@ You can build your project by forking this CodePen pen. Or you can use this CDN 
 Once you're done, submit the URL to your working project with all its tests passing.
 
 See the working version here.
-https://github.com/anandapurva/product_landing_page
+https://anandapurva.github.io/product_landing_page/
