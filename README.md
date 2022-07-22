@@ -38,3 +38,6 @@ User Story #15: My product landing page should utilize CSS flexbox at least once
 You can build your project by forking this CodePen pen. Or you can use this CDN link to run the tests in any environment you like: https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js
 
 Once you're done, submit the URL to your working project with all its tests passing.
+
+See the working version here.
+https://github.com/anandapurva/product_landing_page
